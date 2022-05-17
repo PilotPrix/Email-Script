@@ -63,4 +63,5 @@ def send_guest_speaker_emails(x):
 send_guest_speaker_emails(1)
 print("Success!")
 
+# Debug: Rest of the email message gets hidden
 # Store templates on a text file

@@ -1,7 +1,7 @@
-from time import sleep
-import threading
 import yagmail
+import spreadsheet
 
+# Sending Emails
 sender_email = "wangs2997@wrdsb.ca"
 sender_password = ""
 with open("Password 1.txt", "r") as f:

@@ -1,0 +1,2 @@
+Debug: Rest of the email message gets hidden
+Store templates on a text file

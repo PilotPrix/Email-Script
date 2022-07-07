@@ -4,7 +4,7 @@ import spreadsheet
 # Email Initialization
 sender_email = "wangs2997@wrdsb.ca"
 sender_password = ""
-with open("password 1.txt", "r") as f:
+with open("Authentication/password 1.txt", "r") as f:
     sender_password = f.read()
 yag = yagmail.SMTP(user=sender_email, password=sender_password, port=465)
 

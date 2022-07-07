@@ -4,7 +4,7 @@ import spreadsheet
 # Sending Emails
 sender_email = "wangs2997@wrdsb.ca"
 sender_password = ""
-with open("Password 1.txt", "r") as f:
+with open("Authentication/password 1.txt", "r") as f:
     sender_password = f.read()
 
 receiver_emails = ["wangzhan3000@rogers.com", "zhanf2495@wrdsb.ca", "shara8586@wrdsb.ca",

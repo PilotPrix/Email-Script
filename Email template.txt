@@ -1,0 +1,13 @@
+Hi $NAME!
+
+My name is Peter, I am a high school student and the outreach lead for Highlander Engineering this year. Currently, we are planning on hosting the Highlander Engineering Challenge, a hackathon-style event, in which over 200+ students across Waterloo will be building projects in teams and competing with other high schools. The event will be hosted from May 4 to June 30th.
+
+We were wondering if you would like to host a workshop or AMA with our students. You could talk about work you've done or a topic with respect to your profession. We believe the students will appreciate having you in our club. Click <a href="https://www.notion.so/Guest-Speaker-Workshop-Info-c96424157f964d0180685faa675d1ad6">here</a> for more information about times, dates, and other ideas.
+
+have also attached our speaker information sheet where you can learn more about what it is like to be a guest speaker at Highlander Engineering.
+
+Looking forward to hearing from you!
+
+
+Kind regards,
+Peter
